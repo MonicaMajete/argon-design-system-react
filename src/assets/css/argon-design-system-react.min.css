@@ -44,7 +44,7 @@
   --danger: #f5365c;
   --light: #adb5bd;
   --dark: #212529;
-  --default: #172b4d;
+  --default: #204dd3;
   --white: #fff;
   --neutral: #fff;
   --darker: #000;
@@ -88,7 +88,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #525f7f;
+  color: #204dd3;
   text-align: left;
   background-color: #fff;
 }

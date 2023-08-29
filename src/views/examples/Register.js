@@ -79,12 +79,12 @@ class Register extends React.Component {
                             <img
                               alt="..."
                               src={
-                                require("assets/img/icons/common/github.svg")
+                                require("assets/img/icons/common/linkedin.svg")
                                   .default
                               }
                             />
                           </span>
-                          <span className="btn-inner--text">Github</span>
+                          <span className="btn-inner--text">LinkedIn</span>
                         </Button>
                         <Button
                           className="btn-neutral btn-icon ml-1"
